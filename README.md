@@ -43,11 +43,15 @@ I am a Software Engineer focused on building AI-powered platforms, scalable back
 
 ### AI, LLMs and Search
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semantic%20Search-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,elasticsearch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Search-FF6F00?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Search-4B5563?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-5B21B6?style=flat-square&logo=readthedocs&logoColor=white" />
 </p>
 
 ### Tools and Platforms
