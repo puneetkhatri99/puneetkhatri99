@@ -15,61 +15,47 @@ I am a Software Engineer focused on building AI-powered platforms, scalable back
 - Strong interest in **AI platforms, backend systems, semantic search, RAG, data engineering, and scalable full-stack products**
 
 ---
+## Languages and Tools
 
-## Tech Stack
+### Programming Languages
 
-### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend Development
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,mui,vite" />
+</p>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend Development
 
-### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
+</p>
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+### Databases and Data Platforms
 
-### Databases & Data Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,gcp" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+### AI, LLMs and Search
 
-### AI, LLMs & Search
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</p>
 
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2D3748?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=graphql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-5B21B6?style=for-the-badge&logo=readthedocs&logoColor=white)
+### Tools and Platforms
 
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,selenium,vscode" />
+</p>
 
 ---
 
