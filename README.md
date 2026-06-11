@@ -42,7 +42,6 @@ I am a Software Engineer focused on building AI-powered platforms, scalable back
 </p>
 
 ### AI, LLMs and Search
-
 <p>
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
