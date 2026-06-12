@@ -1,8 +1,6 @@
 # Hi, I'm Puneet Sehgal
 
-## Software Engineer | AI Platforms | Backend Systems | Full-Stack Development
-
-I am a Software Engineer focused on building AI-powered platforms, scalable backend systems, semantic search solutions, ETL pipelines, and full-stack applications. I work across backend architecture, intelligent data processing, LLM-based workflows, and modern frontend development to build reliable products that solve real business problems.
+## Software Engineer | Agentic AI Platforms | Backend Systems | Full-Stack Development
 
 ---
 
@@ -82,85 +80,6 @@ I am a Software Engineer focused on building AI-powered platforms, scalable back
 
 ---
 
-## Featured Projects
-
-### Real-Time Chat Application
-
-A full-stack real-time messaging platform with private chat, group messaging, typing indicators, notifications, and an admin management panel.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Redux Toolkit, Socket.IO, MUI
-
-Key features:
-
-- Real-time private and group messaging
-- Typing indicators and notifications
-- Scalable user and chat management
-- Admin dashboard for moderation and control
-
----
-
-### Prompt Enhancer — Chrome Extension
-
-A Chrome Extension built with Manifest V3 that enhances ChatGPT prompts using OpenAI APIs.
-
-**Tech Stack:** JavaScript, Chrome Extension APIs, OpenAI API, Manifest V3
-
-Key features:
-
-- Converts basic prompts into clearer, more context-rich instructions
-- Uses browser-side workflows and content scripts
-- Injects optimized prompts in real time
-- Improves prompt quality for AI-assisted workflows
-
----
-
-### AI Research Intelligence Platform
-
-An advanced research data platform that combines biomedical, regulatory, patent, scientific, and company intelligence records into one searchable system.
-
-**Tech Stack:** Django REST Framework, React, MongoDB, BigQuery, OpenAI Embeddings, Semantic Search
-
-Key features:
-
-- ETL pipelines for FDA, PubMed, ClinicalTrials.gov, Google Patents, and company datasets
-- AI-powered semantic search across structured and unstructured records
-- Company normalization and entity linking
-- Admin tools for record editing, field-access control, data ingestion, and company merging
-- Designed for research, investment intelligence, and large-scale data exploration
-
----
-
-## Core Strengths
-
-- Backend system design
-- AI-powered application development
-- Semantic search and embeddings
-- ETL pipeline architecture
-- REST API development
-- Scalable MongoDB data modeling
-- Full-stack product development
-- Admin dashboard engineering
-- Web scraping and automation
-- Clean, maintainable, production-oriented code
-
----
-
-## Education
-
-**B.Tech in Information Technology**  
-Ajay Kumar Garg Engineering College, Ghaziabad  
-**2022 – 2026**
-
----
-
-## Certification
-
-**Python Programming 04 — Infosys Springboard**
-
-Covered Python file handling, GUI basics, networking, and Python standard libraries.
-
----
-
 ## GitHub Stats
 
 ![Puneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=puneetkhatri99&show_icons=true&theme=tokyonight)
@@ -177,8 +96,4 @@ Covered Python file handling, GUI basics, networking, and Python standard librar
 [![LeetCode](https://img.shields.io/badge/LeetCode-Puneet%20Sehgal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/puneet_sehgal/)
 [![Email](https://img.shields.io/badge/Email-sehgalpuneet999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sehgalpuneet999@gmail.com)
 
----
 
-## Current Focus
-
-I am currently focused on building AI-powered platforms that combine backend architecture, large-scale data processing, semantic search, and intelligent automation. My goal is to develop systems that make complex data easier to search, understand, and use in real-world decision-making.
