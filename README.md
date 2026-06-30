@@ -1,7 +1,14 @@
-# Hi, I'm Puneet Sehgal
+<div align="center">
 
-## Software Engineer | Agentic AI Platforms | Backend Systems | Full-Stack Development
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Puneet%20Sehgal&fontSize=85&color=0:0d1117,50:0d1117,100:0d1117&stroke=00b4d8&strokeWidth=2&fontColor=00b4d8&animation=fadeIn&fontAlignY=55&desc=Agentic%20AI%20Platforms%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Software%20Engineer&descSize=20&descAlignY=75&descColor=90e0ef" width="100%"/>
 
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+CI%2FCD+Pipelines+That+Never+Sleep+%F0%9F%9A%80;Orchestrating+Cloud+Infrastructure+at+Scale+%E2%98%81%EF%B8%8F;Automating+Everything%2C+Breaking+Nothing+%F0%9F%94%A7;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Infrastructure+%E2%80%A2+Security)](https://github.com/puneetkhatri99)
+
+</div>
 ---
 
 ## About Me
