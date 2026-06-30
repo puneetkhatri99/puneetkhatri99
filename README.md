@@ -6,10 +6,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+CI%2FCD+Pipelines+That+Never+Sleep+%F0%9F%9A%80;Orchestrating+Cloud+Infrastructure+at+Scale+%E2%98%81%EF%B8%8F;Automating+Everything%2C+Breaking+Nothing+%F0%9F%94%A7;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Infrastructure+%E2%80%A2+Security)](https://github.com/puneetkhatri99)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Research+Platforms+%F0%9F%A7%A0;Engineering+Scalable+Backend+Systems+%E2%9A%99%EF%B8%8F;Designing+ETL+Pipelines+for+Large-Scale+Data+%F0%9F%93%8A;Semantic+Search+%E2%80%A2+Automation+%E2%80%A2+Backend+%E2%80%A2+AI)](https://github.com/puneetkhatri99)
 
 </div>
----
 
 ## About Me
 
@@ -68,30 +67,8 @@
 
 ### Software Developer Intern — Loam IT Solutions Pvt Ltd  
 **Mar 2026 – Present**
-
-- Architected and developed an end-to-end research intelligence platform using **Django REST Framework, MongoDB, React, and BigQuery**.
-- Integrated large-scale public datasets from **FDA PMA, FDA 510(k), FDA Drugs, PubMed, ClinicalTrials.gov, Google Patents, and company intelligence sources**.
-- Engineered scalable ETL and ingestion pipelines for **1M+ biomedical, regulatory, patent, and company records**.
-- Designed backend services with optimized indexing, caching, retrieval workflows, and clean API responses.
-- Built an AI-powered semantic search and intelligence layer using **OpenAI embeddings, entity normalization, intelligent retrieval, and insight extraction workflows**.
-- Worked on systems supporting investment research, company intelligence, and future RAG-based knowledge discovery.
-
 ### Software Developer Intern — LiangTuang Technologies Pvt Ltd  
 **Jun 2025 – Aug 2025**
-
-- Built an AI-powered Resume ETL Pipeline using **Flask, MySQL, and OpenAI API**.
-- Extracted structured data from **PDF, DOCX, and TXT resumes**.
-- Developed a scalable admin dashboard for resume review, analytics, and template-based resume generation.
-- Reduced manual resume screening time by **80%**.
-- Implemented Selenium and Selenium Wire pipelines to scrape **5000+ job listings** with structured metadata for internal AI/ML dataset creation.
-
----
-
-## GitHub Stats
-
-![Puneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=puneetkhatri99&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkhatri99&layout=compact&theme=tokyonight)
 
 ---
 
